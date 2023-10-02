@@ -10,10 +10,10 @@ import {
 import BlogsListPage from './pages/BlogsListPage';
  
 const router = createBrowserRouter([
- // {
- //  path: "/",
- //  element: ,
- // },
+ {
+  path: "/",
+  element: <BlogsListPage /> ,
+ },
   
 ]);
  
