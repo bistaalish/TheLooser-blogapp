@@ -122,5 +122,5 @@ body{
   height: 300px;
   background-color: #000;
   margin: 20px 0;
-  object-fit: cover;
+  object-fit: fill;
 }
