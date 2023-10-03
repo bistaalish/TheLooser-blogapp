@@ -9,6 +9,6 @@ export const my_blogs = {
       "title":"My Learning Experience in StackUp",
       "author":"TheLooser!",
       "date":"2023-10-03",
-      "content":"I first started my StackUp journey on 15 March 2022. I remember my first quest was on Rust, which was rather difficult for me. But by reading the documentation carefully and asking for help on the Discord server, I was able to understand the syntax and code. Today, I enjoy the web development quests very much as it helps me in my journey to become a full-stack web developer. At the same time, I enjoy the huge campaigns where we get to learn about different blockchain protocols like Avalanche and Algorand. ",
+      "content":"I first started my StackUp journey on 29 September 2023. I remember my first quest was on Rust, which was rather difficult for me. But by reading the documentation carefully and asking for help on the Discord server, I was able to understand the syntax and code. Today, I enjoy the web development quests very much as it helps me in my journey to become a full-stack web developer. At the same time, I enjoy the huge campaigns where we get to learn about different blockchain protocols like Avalanche and Algorand. ",
   }
 }
